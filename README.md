@@ -2,7 +2,9 @@
 It's very simple, but, it's my "tuto" files  
 First GITHUB usage also.
 
-
+## V0.3.x
+- V0.3.0
+    - Add a Question on my script to respond with my social networks
 
 ## V0.2.x
 - V0.2.1 
