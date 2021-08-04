@@ -3,6 +3,8 @@ It's very simple, but, it's my "tuto" files
 First GITHUB usage also.
 
 ## V0.4.x
+- V0.4.1
+    - Debug users 3 and 4
 - V0.4.0
     - Multiple users creation
     - Multiple name and age
