@@ -6,7 +6,7 @@ First GITHUB usage also.
 - V0.4.0
     - Multiple users creation
     - Multiple name and age
-    - Selection of users (1 to 4)
+    - Selection of users
     - Limitation of 1 to 4 users
     - Print a text dependent of your age
     
